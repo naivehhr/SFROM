@@ -8,7 +8,7 @@
   },
   "peerDependencies": {
     "antd": "^3.19.5",
-    "enzyme": "^3.10.0",
+    "enzyme": "^3.10.0"
   },
   "author": "",
   "license": "ISC"
