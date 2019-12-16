@@ -1,5 +1,3 @@
-const a = () =>{
-  console.log('a')
-}
+import Form from './Form';
 
-export default a
+export default Form;
